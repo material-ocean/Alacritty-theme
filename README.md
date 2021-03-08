@@ -1,5 +1,9 @@
 ![screenshot](./screen.png)
 
+### Requirements
+
+- [JetBrainsMono Nerd Font](https://github.com/ryanoasis/nerd-fonts/tree/master/patched-fonts/JetBrainsMono)
+
 ### Installation
 
 - clone or download this repo
