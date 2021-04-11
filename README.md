@@ -1,13 +1,10 @@
 ![screenshot](./screen.png)
 
-### Requirements
-
-- [JetBrainsMono Nerd Font](https://github.com/ryanoasis/nerd-fonts/tree/master/patched-fonts/JetBrainsMono)
-
 ### Installation
 
 - clone or download this repo
-- `cp alacritty.yml ~/.config/alacritty/alacritty.yml`
+- `cp material_ocean.yml ~/.config/alacritty/material_ocean.yml`
+- import the theme to alacritty.yml via `import: ~/.config/alacritty/material_ocean.yml`
 
 ### License:
 

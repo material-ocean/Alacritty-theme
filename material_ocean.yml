@@ -22,21 +22,3 @@ font:
     y: 1
   normal:
     family: "JetBrainsMono Nerd Font"
-
-window:
-  padding:
-    x: 5
-    y: 5
-
-cursor:
-  unfocused_hollow: true
-  style:
-    blinking: Always
-
-# fixes nvim background
-env:
-  TERM: xterm-256color
-
-scrolling:
-  history: 2000
-  auto_scroll: true
